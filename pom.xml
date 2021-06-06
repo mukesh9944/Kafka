@@ -14,6 +14,8 @@
         <module>kafka-consumer-elasticsearch</module>
         <module>kafka-connect-github-source</module>
         <module>kafka-connect-project</module>
+        <module>kafka-stream-starter-project</module>
+        <module>kafka-stream-word-count</module>
     </modules>
 
     <properties>
